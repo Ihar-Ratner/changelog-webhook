@@ -9,4 +9,4 @@ Getting latest release version from terraform-azurerm-provider changelog and sen
 | TEAMS_URL         | The URL of the Teams incoming webhook  |
 | LAST_RELEASE_FILE | The file to store the last release tag |
 
-![alt text](https://github.com/Ihar-Ratner/changelog-webhook/blob/[main]/webhook.example.jpg?raw=true)
+![alt text](https://github.com/Ihar-Ratner/changelog-webhook/blob/main/webhook.example.jpg?raw=true)
