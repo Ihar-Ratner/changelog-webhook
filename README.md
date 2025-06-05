@@ -9,5 +9,8 @@ Getting latest release version from terraform-azurerm-provider changelog and sen
 | TEAMS_URL         | The URL of the Teams incoming webhook                                                |
 | LAST_RELEASE_FILE | The file to store the last release tag                                               |
 
-### Webhook Output Example
+### Webhook Output Example for Microsoft Teams
 ![alt text](https://github.com/Ihar-Ratner/changelog-webhook/blob/main/webhook.example.jpg?raw=true)
+
+### Webhook Output Example for Telegram Channel
+![alt text](https://github.com/Ihar-Ratner/changelog-webhook/blob/main/telegram.png?raw=true)
